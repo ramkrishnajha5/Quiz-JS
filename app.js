@@ -41,7 +41,7 @@ const ques = [
         Options: ['Satya Nadela','Lisa Su','Patrick Gelsinger','Shantanu Narayen']
     },
     {
-        Q: 'You Have Comlete Sucessfully!',
+        Q: '🎉 You Have Completed Sucessfully!',
         Options:[]
     }
 ]
